@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643857221501",
+    "project_id": "flash-chat-69941",
+    "storage_bucket": "flash-chat-69941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643857221501:android:130bef961e65aff03b2e14",
+        "android_client_info": {
+          "package_name": "com.avanti.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643857221501-kkhf81hlhsp3ap734vi4fjcs0k7q13u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDZOkpU35Mt8AP_nr4X1RYSxZAo2U6po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643857221501-kkhf81hlhsp3ap734vi4fjcs0k7q13u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
